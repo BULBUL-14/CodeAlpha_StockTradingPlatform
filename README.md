@@ -33,8 +33,4 @@ This project simulates a basic stock trading platform where users can:
 - 📚 HashMap & OOP Concepts
 - 💻 VS Code
 
----
 
-## ▶️ How to Run
-
-Compile:
